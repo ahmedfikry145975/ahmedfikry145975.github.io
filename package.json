@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ebtehalraafat98.github.io/AhmedFikry_portfolio",
+  "homepage": "https://ahmedfikry145975.github.io/AhmedFikry_portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@supabase/supabase-js": "^2.57.4",
